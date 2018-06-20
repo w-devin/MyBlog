@@ -37,7 +37,7 @@ some thing to say
 
 今天是端午节，早饭吃了个粽子，然后就平平常常的该干嘛干嘛了，要说变化不过是今天话40来块钱买了个icloud账号共享，永久共享，好多以前上百的软件可以随意下载了，好用的有pythonista, coda, iCircuit, Thor, 上几个截图吧
 
-![](p7skriigy.bkt.clouddn.com/15293145303040.jpg)
-![](p7skriigy.bkt.clouddn.com/15293145384945.jpg)
-![](p7skriigy.bkt.clouddn.com/15293145454312.jpg)
-![](p7skriigy.bkt.clouddn.com/15293145509235.jpg)
+![](http://p7skriigy.bkt.clouddn.com/15293145303040.jpg)
+![](http://p7skriigy.bkt.clouddn.com/15293145384945.jpg)
+![](http://p7skriigy.bkt.clouddn.com/15293145454312.jpg)
+![](http://p7skriigy.bkt.clouddn.com/15293145509235.jpg)
