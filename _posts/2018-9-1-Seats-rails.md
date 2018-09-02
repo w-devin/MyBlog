@@ -9,12 +9,6 @@ mathjax: true
 ---
 * content
 {:toc}
-
-
-
-
-
-
  1. Install packages
      ```
      sudo apt-get update
@@ -25,7 +19,7 @@ mathjax: true
      
      
      
-         
+     
  2. Install Nginx
      ``` 
      curl -sSL https://git.io/vVHhf | bash
