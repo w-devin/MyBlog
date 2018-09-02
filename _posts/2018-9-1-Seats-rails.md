@@ -23,6 +23,7 @@ mathjax: true
      
      
      
+     
  2. Install Nginx
      ``` 
      curl -sSL https://git.io/vVHhf | bash
