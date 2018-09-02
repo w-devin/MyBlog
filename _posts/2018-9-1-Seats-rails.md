@@ -18,6 +18,11 @@ mathjax: true
      curl -sSL https://git.io/vVHhe | bash
      '''
      
+     
+     
+     
+     
+     
  2. Install Nginx
      ``` 
      curl -sSL https://git.io/vVHhf | bash
