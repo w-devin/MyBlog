@@ -12,11 +12,11 @@ mathjax: true
 
 #### 服务器配置
  1. Install packages
-     ```bash
+     ```
      sudo apt-get update
      sudo apt-get install -y curl
      curl -sSL https://git.io/vVHhe | bash
-     '''
+     ```
      
      
      
