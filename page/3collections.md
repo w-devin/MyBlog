@@ -18,13 +18,5 @@ type: page
 * [keysub](http://keysub.me/)
 
 
-## Animes
-* [名侦探柯南]() 902/909
-* [妖精的尾巴]() 50/?
-
-## Games
-* [仙剑奇侠传Ⅳ]()
-* [雷曼]()
-
 ## Comments
 {% include comments.html %}
