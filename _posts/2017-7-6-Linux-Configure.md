@@ -14,7 +14,7 @@ mathjax: true
 
 
 
-１.添加字体：
+## １.添加字体：
 现将要导入的ttf文件复制到一个文件夹fonts中,然后执行：
 
 ```sh
@@ -27,7 +27,7 @@ sudo fc-cache -fv
 
 ```
 
-2.关于Linux下jekyll的安装：
+## 2.关于Linux下jekyll的安装：
 ```sh
 sudo apt-get install ruby
 sudo apt-get install ruby-dev
@@ -36,7 +36,7 @@ sudo gem install jekyll
 sudo gem install jekyll-paginate
 ```
 
-3.关于Linux下中文输入法的安装：
+## 3.关于Linux下中文输入法的安装：
 
 　　　3.1先从[搜狗拼音官网](http://pinyin.sogou.com/linux/?r=pinyin)下载合适的安装包　xx.deb
 
@@ -46,7 +46,7 @@ sudo gem install jekyll-paginate
 
 　　　3.4最后根据个人的使用习惯设置一下快捷键,皮肤即可
 
-4.java环境配置:
+## 4.java环境配置:
 
 　　　4.1[官网](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)下载合适版本JDK, xxx.tar.gz文件
 
@@ -67,4 +67,4 @@ sudo gem install jekyll-paginate
 
 　　　4.5最后可以通过　`java -version`　验证是否安装成功
 
-5.剩下的以后再补充
+## 5.剩下的以后再补充

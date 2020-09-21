@@ -10,7 +10,9 @@ mathjax: true
 * content
 {:toc}
 
-### Vmware 安装 Mac os 的方法
+## Vmware 安装 Mac os 的方法
+
+好早之前的
 
 1. 需求: [Vmware workstation player](http://www.vmware.com/products/player/playerpro-evaluation.html)、[unlocker](http://www.insanelymac.com/forum/files/file/339-unlocker/)、Mac os系统镜像
 Mac os镜像可从我的百度云链接下载(链接: https://pan.baidu.com/s/1c25rK3I 密码: 3ii6)

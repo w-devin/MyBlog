@@ -18,17 +18,17 @@ mathjax: true
 
 
 
-1.命名空间：
+## 1.命名空间：
 ```cs
 using System.Data.SqlClient;
 ```
 
-2.链接字符串的写法:
+## 2.链接字符串的写法:
 ```cs
 string connectString = "Data Source = ; Initial Catalog = ; Persist Security Info = True; User ID = ; Password = ";
 ```
 
-3.连接数据库
+## 3.连接数据库
 ```cs
 SqlConnection sqlCnt = new SqlConnection(connectString);
 ```
@@ -40,9 +40,9 @@ sqlCnt.Close();
 sqlCnt.Dispose();
 ```
 
-4.SqlCommand 对象
+## 4.SqlCommand 对象
 
-4.1常用方法
+### 4.1常用方法
 ```cs
 SqlCommand cmd = sqlCnt.CreateCommand();
 ```
@@ -92,7 +92,7 @@ dataReader.Close();
 dataReader.Dispose();
 ```
 
-4.2 常用成员
+### 4.2 常用成员
 
 ```cs
 CommandType //链接类型
@@ -102,27 +102,27 @@ CommandType //链接类型
 CommandText //查询语句/表明/存储过程
 ```
 
-5.尚待补充：
+## 5.尚待补充：
 
-5.1
+### 5.1
 
 ```cs
 System.Data.SqlClient.SqlDataAdapter;
 ```
 
-5.2
+### 5.2
 
 ```cs
 System.Data.SqlClient.SqlCommandBuilder;
 ```
 
-5.3
+### 5.3
 
 ```cs
 System.Data.DataSet;
 ```
 
 
-6.参考资料/网站
+## 6.参考资料/网站
 
 [Rain Man](http://www.cnblogs.com/rainman/archive/2012/03/13/2393975.html)

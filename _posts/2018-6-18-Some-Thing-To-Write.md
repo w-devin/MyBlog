@@ -25,9 +25,5 @@ some thing to say
 
 父亲节考完了英语六级，相比于上次六级时的下次再战的心态，这次多少还是希望自己一次就过的。 这次六级的状态还行，就是听力和第二个阅读又些慌。
 
-今天是端午节，吃了个粽子，然后就平平常常的该干嘛干嘛了，要说变化不过是今天话40来块钱买了个icloud账号共享，永久共享，好多以前上百的软件可以随意下载了，好用的有pythonista, coda, iCircuit, Thor, 上几个截图吧
+今天是端午节，吃了个粽子，然后就平平常常的该干嘛干嘛了，要说变化不过是今天话40来块钱买了个icloud账号共享，永久共享，好多以前上百的软件可以随意下载了，好用的有pythonista, coda
 
-![](http://p7skriigy.bkt.clouddn.com/15293145303040.jpg)
-![](http://p7skriigy.bkt.clouddn.com/15293145384945.jpg)
-![](http://p7skriigy.bkt.clouddn.com/15293145454312.jpg)
-![](http://p7skriigy.bkt.clouddn.com/15293145509235.jpg)
