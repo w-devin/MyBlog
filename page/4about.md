@@ -11,15 +11,13 @@ type: page
 
 ## TODO
 
-[ ] write a todo list
+* write a todo list
 
-## 关于本站
+* learn [pwn](http://docs.pwntools.com/en/stable)
 
-* 本站主题由GaoHaoyang设计
-
-* 若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
-
-~欢迎使用~
-
-
+* [MS18-067 challenges](http://bachang.ms08067.com/challenges)
+    - Pratical Malware analysis (.net, not welcome, oracle)
+    
+* [adworld](https://adworld.xctf.org.cn/task)
+    - pwn, misc
 
