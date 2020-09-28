@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-## Blogs
+## Friends
 
 * [Phase](http://arcphase20.com/)
 * [Test](http://www.cnblogs.com/test404/)
@@ -18,9 +18,35 @@ type: page
 * [Scalpel](http://scalpel.vip/)
 * [keysub](http://keysub.me/)
 
+
 ## Sec Blogs
 
 * [Eastmount](https://me.csdn.net/Eastmount)
+
+
+## Dev Resource
+
+### shell
+
+* [bash](https://wangdoc.com/bash/)
+
+
+## Sec Resource
+
+### Pentest
+
+#### Information Gathering
+
+* [Reconerator](https://github.com/stufus/reconerator)
+* [Seatbelt](https://github.com/GhostPack/Seatbelt)
+* [SharpView](https://github.com/tevora-threat/SharpView)
+
+
+### Reverse Engineering
+
+#### Books
+
+* [RE4B](https://beginners.re)
 
 
 ## Comments
