@@ -53,6 +53,16 @@ type: page
 
 * [RE4B](https://beginners.re)
 
+### HackKit
+
+* [impacket](https://github.com/SecureAuthCorp/impacket)
+* [pwn](https://github.com/Gallopsled/pwntools)
+* [pocsuite3](https://github.com/knownsec/pocsuite3)
+
+### Vulnerability Firing Range
+
+* [vulhub](https://github.com/vulhub/vulhub)
+
 
 ## Comments
 {% include comments.html %}
