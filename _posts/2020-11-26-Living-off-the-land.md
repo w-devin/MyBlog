@@ -85,6 +85,8 @@ User-Agent: Microsoft-CryptoAPI/10.0
 Host: 192.168.220.125
 ```
 
+***Note*** 也有人遇到UA为 `CertUtil URL Agent` 的情况
+
 ### 4. Desktopimgdownldr.exe
 
 ```powershell
@@ -298,6 +300,7 @@ Connection: Keep-Alive
 #### certutil
 
 - [3gstudent](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84certutil.exe/)
+- [wsygoogol](https://wsygoogol.github.io/2018/12/17/%E6%94%BB%E5%87%BB%E8%80%85%E5%88%A9%E7%94%A8CertUtil-exe%E6%A4%8D%E5%85%A5%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6/)
 
 #### Msiexec
 
